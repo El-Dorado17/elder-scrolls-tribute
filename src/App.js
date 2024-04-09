@@ -1,3 +1,5 @@
+//? components ==> views ==> App.js ==> index.js ==> Browser renders 
+
 import logo from './logo.svg';
 import './App.css';
 
