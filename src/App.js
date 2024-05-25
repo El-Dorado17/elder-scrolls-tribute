@@ -1,27 +1,19 @@
 //? components ==> views ==> App.js ==> index.js ==> Browser renders 
 
-import logo from './logo.svg';
-import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
 
-export default App;
+//This module will have a function that holds the nav bar and the app views
+
+
+
+import { ApplicationViews } from "./components/views/ApplicationViews.js";
+import "./App.css"
+import { NavBar } from "./components/nav/NavBar.js";
+
+
+export const App = () => (
+  <>
+    <NavBar/>
+    <ApplicationViews />
+  </>
+)
