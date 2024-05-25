@@ -16,9 +16,9 @@ export const ApplicationViews = () => {
             <Route path="/" element={<Home/>}/>
             {/* <Route path="/Resume" element={<Games/>}/>
             <Route path="/About" element={<History/>}/>
-            <Route path="/Projects" element={<Gallery/>}/> */}
-            {/* <Route path="/Photos" element={<Trivia??/>}/> */}
-            {/* <Route path="/Contact" element={<Contact/>}/> */}
+            <Route path="/Projects" element={<Gallery/>}/>
+            <Route path="/Photos" element={<Quiz/>}/>
+            <Route path="/Contact" element={<Contact/>}/> */}
         </Routes>
     </>
 }
