@@ -7,6 +7,7 @@
 import React from "react"
 import { Home } from "../home/Home.js"
 import { Games } from "../games/Games.js"
+import { History } from "../history/History.js"
 
 // import { Contact } from "../contact/Contact.js"
 import { Route, Routes } from "react-router-dom"
