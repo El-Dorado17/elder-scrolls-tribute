@@ -32,6 +32,9 @@ export const Games =()=>{
                 <br/>
                 <br/>
                 <h5>The games order are as follows:</h5>
+                <br/>
+                <br/>
+                <h5>Side Games and DLC's:</h5>
             </div>
         </section>
     )
