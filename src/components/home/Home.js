@@ -11,6 +11,8 @@ WELCOME/Welcome
 to keep my skills sharp and learn more about TES universe and making
 a resource for others to learn as well.
 
+:)
+
 Look around, learn, explore, and let me know what you think!"
 */
 
