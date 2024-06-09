@@ -12,6 +12,9 @@ to keep my skills sharp and learn more about TES universe and making
 a resource for others to learn as well.
 
 :)
+:D
+Will work on this soon; promise! 
+Following steps are to install tailwind and keep building home page
 
 Look around, learn, explore, and let me know what you think!"
 */
