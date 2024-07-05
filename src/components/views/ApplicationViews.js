@@ -21,7 +21,7 @@ export const ApplicationViews = () => {
             <Route path="/Games" element={<Games/>}/>
             <Route path="/History" element={<History/>}/>
             <Route path="/Gallery" element={<Gallery/>}/>
-            <Route path="/Quiz" element={<Quiz/>}/>
+            {/* <Route path="/Quiz" element={<Quiz/>}/> */}
             <Route path="/Contact" element={<Contact/>}/>
         </Routes>
     </>

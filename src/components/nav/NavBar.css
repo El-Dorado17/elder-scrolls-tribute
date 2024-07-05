@@ -1,0 +1,13 @@
+.list{
+    display: flex;
+    justify-content: space-evenly;
+    border: 8px black double;
+}
+
+
+/* 
+.list-item{
+    width: 10%;
+    display: flex;
+    border: 2px double hotpink
+} */
