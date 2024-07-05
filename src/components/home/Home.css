@@ -1,0 +1,14 @@
+.image1{
+    width: 400px;
+    height: auto;
+
+}
+
+
+.image-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 8px double hotpink;
+    align-items: center;
+}
