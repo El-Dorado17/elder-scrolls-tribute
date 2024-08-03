@@ -36,9 +36,12 @@ export const Home =()=>{
                 </div>
                 <br/>
                 <br/>
-                <h5>This is a small passion project dedicated to The Elder Scrolls games to keep my skills sharp and learn more about TES universe while making a resource for others to learn as well.
+                <h5>Thank you for checking out my passion project dedicated to The Elder Scrolls games!
+This nook of the internet's purpose is to keep my coding skills sharp while also learning more about The Elder Scrolls Universe. Read & explore as long as you'd like, or just gander at the pretty pictures in the Gallery.
 
-Look around, learn, explore, and let me know what you think! -Ely</h5>
+Feedback, Gallery contributions, & Blades slander are always welcome! 
+    Talos guide you,
+        -Ely</h5>
             </div>
         </section>
     )
