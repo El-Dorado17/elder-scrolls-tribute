@@ -1,4 +1,7 @@
-### WIRREFRAME https://wireframe.cc/Tw9Agz
+### HOME & GAMES WIREFRAME
+https://wireframe.cc/Tw9Agz
+### HISTORY WIREFRAME
+https://wireframe.cc/24m5ns
 
 # Getting Started with Create React App
 
