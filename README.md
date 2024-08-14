@@ -3,6 +3,13 @@ https://wireframe.cc/Tw9Agz
 ### HISTORY WIREFRAME
 https://wireframe.cc/24m5ns
 
+### NIRN
+https://i.imgur.com/b2z7971.jpg
+
+### TAMRIEL
+https://www.imperial-library.info/wp-content/uploads/image-2.png
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
