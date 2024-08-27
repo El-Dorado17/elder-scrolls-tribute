@@ -1,11 +1,5 @@
 /*
-
 CONTACT
-
-<Link to LinkedIn/>
-
-Feel free to get a hold of me via LinkedIn or find me on Instagram if you're clever enough!
-
 */
 
 
@@ -15,6 +9,12 @@ export const Contact =()=>{
         <section>
             <div>
                 <h1>Contact info:</h1>
+                <br/>
+                <br/>
+                    <p> Feel free to add & message me on</p>
+                    <a target="_blank" href="https://www.linkedin.com/in/ely-dorado/"> LinkedIn</a>
+                <br/>
+                <br/>
             </div>
         </section>
     )
