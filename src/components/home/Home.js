@@ -1,5 +1,7 @@
 //? components ==> views ==> App.js ==> index.js ==> Browser renders 
 
+//TODO: Style this! Tailwind??
+
 //HOME JS
 /*
 
