@@ -33,17 +33,19 @@ export const Home =()=>{
 
                 <br/>
                 <br/>
-                <div className="image-contaner">
+                <div className="image-container">
                     <img className="image1" src="https://assets-prd.ignimgs.com/2021/08/19/elder-scrolls-skyrim-button-2017-1629409446732.jpg" alt="Skyrim-cover"/>
                 </div>
                 <br/>
-                <br/>
-                <h5>Thank you for checking out my passion project dedicated to The Elder Scrolls games!
-This nook of the internet's purpose is to keep my coding skills sharp while also learning more about The Elder Scrolls Universe. Read & explore as long as you'd like, or just gander at the pretty pictures in the Gallery.
-
-Feedback, Gallery contributions, & Blades slander are always welcome! 
-    Talos guide you,
-        -Ely</h5>
+                <h4 className="intro-box">Thank you for checking out my passion project dedicated to The Elder Scrolls games! <br/>
+                This nook of the internet's purpose is to keep my coding skills sharp while also learning more about The Elder Scrolls Universe. <br/>
+                Read & explore as long as you'd like, or just gander at the pretty pictures in the Gallery. <br/>
+                Feedback, Gallery contributions, & Blades slander are always welcome! <br/>
+                Talos guide you, <br/>
+                -Ely</h4>
+            <br/>
+            <br/>
+            <br/>
             </div>
         </section>
     )

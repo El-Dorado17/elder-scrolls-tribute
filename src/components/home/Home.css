@@ -1,14 +1,18 @@
 .image1{
     width: 400px;
     height: auto;
-
+    border: 14px double aliceblue
 }
 
 
-.image-container{
+.body{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    border: 8px double hotpink;
     align-items: center;
+}
+
+.intro-box{
+    background-color: aliceblue;
+    width: 70%;
 }
